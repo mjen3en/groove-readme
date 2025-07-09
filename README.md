@@ -61,13 +61,15 @@ This project showcases my ability to:
 - Design user-friendly, modern mobile interfaces
 - Implement robust backend services and APIs
 - Collaborate using clean code and best practices
+- 
+[Groove Walkthrough 2 - Made with Clipchamp (1).zip](https://github.com/user-attachments/files/21133862/Groove.Walkthrough.2.-.Made.with.Clipchamp.1.zip)
 
 ---
 
 ## Screenshots
 
 ## Walkthroughs
-Groove Walkthrough 1.mp4
+
 
 
 Groove Walkthrough 2.mp4
