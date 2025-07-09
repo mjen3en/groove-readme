@@ -61,14 +61,10 @@ This project showcases my ability to:
 - Design user-friendly, modern mobile interfaces
 - Implement robust backend services and APIs
 - Collaborate using clean code and best practices
-- 
+
 ---
 
-## Screenshots
-
 ## Walkthroughs
-
-
 
 
 
