@@ -62,8 +62,6 @@ This project showcases my ability to:
 - Implement robust backend services and APIs
 - Collaborate using clean code and best practices
 - 
-[Groove Walkthrough 2 - Made with Clipchamp (1).zip](https://github.com/user-attachments/files/21133862/Groove.Walkthrough.2.-.Made.with.Clipchamp.1.zip)
-
 ---
 
 ## Screenshots
@@ -72,5 +70,18 @@ This project showcases my ability to:
 
 
 
-Groove Walkthrough 2.mp4
+
+
+https://github.com/user-attachments/assets/4c8ae4f5-cb68-4f97-866f-136ec3e1fc1e
+
+
+https://github.com/user-attachments/assets/5bf30ad0-229b-4038-9074-99cb0f2cb941
+
+
+
+https://github.com/user-attachments/assets/39a033e3-023e-4fc2-bc7b-df30904553c9
+
+
+
+https://github.com/user-attachments/assets/1982c7ab-e214-461c-b96f-f6cd633f8305
 
