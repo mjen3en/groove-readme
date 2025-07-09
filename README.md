@@ -65,3 +65,8 @@ This project showcases my ability to:
 ---
 
 ## Screenshots
+
+## Walkthroughs
+![Groove Walkthrough 1.mp4]
+![Groove Walkthrough 2.mp4]
+
